@@ -30,7 +30,7 @@
     - [How Questions are Selected](#how-questions-are-selected)
     - [It's all relative](#its-all-relative)
 
-- Chapter **1**,2,3,4,6,7,9,10
+- Chapter **1,2,3,4**,6,7,9,10
 
 ## The Interview Process
 
@@ -131,3 +131,71 @@ Interview performance is usually placed upon:
 
 ## Before the Interview
 
+- Without a great resume there's no interview To improve your CV do this:
+  - _Take The Big Project Classes_: Do a class with a big project, good group work / hackathon sized projects = good CV experience
+  - _Do an internship_: Do everything you can to land an internship early in school. It will pave the way for good internships before you graduate
+  - _Start something:_ Build a project in your own time, do a hackathon or open source project. Not only will this develop skills but it shows initative
+
+![picture 1](../images/1249f1ae8641b92ed3dc9fd5dff5fad203298b2f0dea734712d4ae41c087994a.png)  
+![picture 2](../images/89e42e7d16d3d6032710d5747a38be2798f121054de43bd0fdc1977e7fe7ea06.png)
+
+## Behavioural Questions
+
+![picture 3](../images/e9278706674ced38279fb1b0572340c4f37fb9b8ffbe507c8063d55fd96b3f53.png)
+
+- Go through each project and see if you can talk about it in detail
+- List all major aspects including each project, job or actiity
+
+### What are your weaknesses?
+
+- When asked about weakness, give a real weakness
+  - Answers like "I work too hard" tell recruiters you're arrogant and/or won't admit faults. A good example is:
+  - "Sometimes, I don't have good attention to detail, whilst it's good cause it lets me execute quickly. It means sometimes I make mistakes. Because of that I make sure to always have someone double check my work"
+
+### What Questions should you ask
+
+**Genuine Questions**
+
+1. "What are the ratio of developers to product managers? What is the interaction like? How does product planning happen on the team"
+2. What brought you to this company. What's been most challenging to you
+
+**Insightful Questions**
+
+1. "I noticed you use technology X. How do you manage problem Y"
+2. "Why did the product choose to use X over Y. I know it has benefits like A,B,C, but many companies choose not to use it because of problem D"
+
+**Passion Questions**
+
+1. I'm very interested in scalability, and I'd love more about this. What opportunities would there be to lern about this
+2. I'm not familar with technology X, but it sounds interesting. Could you tell me more about it?
+
+### Know your Tech Projects
+
+- Choose 2-3 projects you deeply master and use the following critera:
+  - Product had challenging components (beyond "learning a lot")
+  - You played a central role (ideally on challenging concepts)
+  - You can talk at technical depths
+- For those projects, and all your projects be able to talk about the challenges, mistakes, technical decisions, choice of technology (and tradeoffs) and what you'd do differently
+
+## Responding To Behavioural questions
+
+### Be specific not arrogant
+
+- Arrogance is a red flag, but you want to sound imprressive, to do this be specific
+- Give the facts you did and let the interviewer derive an intreptation. Rather then saying you "did all the hard parts", instead describe what you did and how you found that challenging
+
+### Limit Details
+
+- Don't balabber around a project as people get lost in etails
+- Stay light on details, giving key points. When possible translate it or explain the impact. Can always offer the opportunity to drill further
+
+"By examining the most common user behavior and applying the Rabin-Karp algorithm, I
+designed a new algorithm to reduce search from O(n) to 0( log n) in 90% of cases. I can go
+into more details if you'd like:'
+
+### Focus on yourself not the team
+
+- Most people (especially in leadership roles) use "we" "us" "them". Interviewers walk away thinking you did nothing
+- Pay attention to your answers and listen for how much you say "we" vs "I". Assume every question about your role, and speak to that
+
+page 45 ### Give Structured Answers
